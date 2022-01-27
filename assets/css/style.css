@@ -81,20 +81,7 @@
   
   .minus-button:active, 
   .plus-button:active, 
-  .reset:active {
+  .reset-button:active {
       box-shadow: inset -3px 4px 1px #c70eff;
   }
   
-  footer a {
-    color: #71087a;
-    text-decoration: none;
-    font-weight: 500;
-  }
-  
-  footer a:hover {
-      opacity: .8;
-  }
-  
-  footer a:active {
-      color: #be0dce;
-  }
